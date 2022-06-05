@@ -15,7 +15,7 @@ for ( i = 0; i < numberOfDrumButtons; i++){
 
 }
 
-//-------Detecting Keybord Press-----------
+//-----Detecting Keybord Press-------
 document.addEventListener("keydown", function(event){
 
     makeSound(event.key);
