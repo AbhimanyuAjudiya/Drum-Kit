@@ -84,7 +84,7 @@ function buttonAnimation(currentKey) {
 
 
 
-// ---------Calculater-------- 
+// -----Calculater----
 // function multiply(a ,b) {
 //     return a * b;
 // }
